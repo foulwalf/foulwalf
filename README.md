@@ -5,7 +5,7 @@ Salut 😄 mon nom est __Alexis YAO__, je suis étudiant en 2ème Année de Mast
 
 Je suis un passionné de technologies, je me définis plus comme un développeur web et mobile fullstack mais disons que je fais un peut de tout.
 
-### Actuellement j'apprends 
+### Actuellement j'apprends : 
 - ![Angular](https://img.shields.io/static/v1?&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=) 
 - ![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) 
 - ![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
@@ -13,7 +13,7 @@ Je suis un passionné de technologies, je me définis plus comme un développeur
 - ![Figma](https://img.shields.io/static/v1?&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 - ... (encore plein d'autres choses)
 
-### Je travaille actuellement avec
+### Je travaille sur des projets avec : 
 - ![Laravel](https://img.shields.io/static/v1?&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 - ![Flutter](https://img.shields.io/static/v1?&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 - ![Java](https://img.shields.io/static/v1?e&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
@@ -32,7 +32,7 @@ Hi 😄 my name is __Alexis YAO__, I am a student in the 2nd Year of Master in C
 
 I am passionate about technologies, I define myself more as a fullstack web and mobile developer but let's say that I do a little of everything.
 
-### Currently learning
+### Currently learning :
 - ![Angular](https://img.shields.io/static/v1?&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 - ![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 - ![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
@@ -40,7 +40,7 @@ I am passionate about technologies, I define myself more as a fullstack web and 
 - ![Figma](https://img.shields.io/static/v1?&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 - ... (many other things)
 
-### I am currently working with
+### I am working on some projects with : 
 - ![Laravel](https://img.shields.io/static/v1?&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 - ![Flutter](https://img.shields.io/static/v1?&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 - ![Java](https://img.shields.io/static/v1?e&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
