@@ -34,7 +34,7 @@ I am passionate about technologies, I define myself more as a fullstack web and 
  <a href="https://github.com/misteral1009"><img src="https://github-readme-streak-stats.herokuapp.com?user=misteral1009&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
 </p>
 
-### contacts
+### Contacts
 - [alexisaman8@gmail.com](mailto:alexisaman8@gmail.com)
 - [alexisaman19@outlook.fr](mailto:alexisaman19@outlook.fr)
 
