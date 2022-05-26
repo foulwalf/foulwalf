@@ -36,6 +36,7 @@ I am passionate about technologies, I define myself more as a fullstack web and 
 
 ### contacts
 - [alexisaman8@gmail.com](mailto:alexisaman8@gmail.com)
+- [alexisaman19@outlook.fr](mailto:alexisaman19@outlook.fr)
 
 ### Social networks
 <p align="left">
