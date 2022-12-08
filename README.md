@@ -1,4 +1,4 @@
-Hi 😄 my name is __Alexis YAO__, I am a young software engineer who's started his career in tech, I also work as a Freelancer from time to time and I'm preparing to become a contributor ![Open Source](https://img.shields.io/static/v1?&message=Open+Source&color=3DA639&logo=Open+Source&logoColor=FFFFFF&label=). I'm currently the co-organizer of @gdgcocody.
+Hi 😄 my name is __Alexis YAO__, I am a young software engineer who's started his career in tech, I also work as a Freelancer from time to time and I'm preparing to become a contributor ![Open Source](https://img.shields.io/static/v1?&message=Open+Source&color=3DA639&logo=Open+Source&logoColor=FFFFFF&label=). I'm currently the co-organizer of [gdg cocody](https://github.com/gdgcocody).
 
 
 I am passionate about technologies, I define myself more as a fullstack web and mobile developer but let's say that I do a little of everything.
