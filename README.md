@@ -23,15 +23,15 @@ I am passionate about technologies, I define myself more as a fullstack web and 
 ### GitHub Stats
 <p align="center">
 <a href="https://github.com/misteral1009">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theGreatIx&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theGreatIx&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foulwalf&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foulwalf&layout=compact&langs_count=8&theme=onedark"/>
 </a>
 </p>
 
 ### My streaks
 
 <p align="center">
- <a href="https://github.com/theGreatIx"><img src="https://github-readme-streak-stats.herokuapp.com?user=theGreatIx&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
+ <a href="https://github.com/foulwalf"><img src="https://github-readme-streak-stats.herokuapp.com?user=theGreatIx&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
 </p>
 
 ### Contacts
@@ -40,6 +40,6 @@ I am passionate about technologies, I define myself more as a fullstack web and 
 
 ### Social networks
 <p align="left">
-<a href="https://twitter.com/theGreatIx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theGreatIx" height="30" width="40" /></a>
+<a href="https://twitter.com/foulwalf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theGreatIx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alexisyao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexisyao" height="30" width="40" /></a>
 </p>
